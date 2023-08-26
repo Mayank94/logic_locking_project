@@ -1,4 +1,8 @@
-# logic_locking_project
+# Attacks on Locked Hardware Circuits
+
+OEMs spend millions of dollars on R&D to design a hardware system be it a processor or a modular component. But there is a high chance that someone can steal their work when they send it to fabrication sites. To avoid these stealing eat away at their profits they lock their codes using various keys. 
+
+We are the attacking team, coming from a poor nation who cannot afford to spend millions on R&D so we want to steal the ideas of the big tech giants for our research and studying purposes and not at all for profits
 
 FOLDER CONTAINS
 
